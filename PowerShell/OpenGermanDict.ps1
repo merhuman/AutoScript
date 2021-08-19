@@ -17,6 +17,7 @@
 
 # --
 # [System.Diagnostics.Process]::Start("chrome", "https://de.langenscheidt.com/")
-[System.Diagnostics.Process]::Start("chrome", "https://www.collinsdictionary.com/dictionary/english-german")
+# [System.Diagnostics.Process]::Start("chrome", "https://www.collinsdictionary.com/dictionary/english-german")
+[System.Diagnostics.Process]::Start("chrome", "https://www.duden.de/")
 [System.Diagnostics.Process]::Start("chrome", "https://www.leo.org/englisch-deutsch/")
 [System.Diagnostics.Process]::Start("chrome", "https://translate.google.com/?hl=vi&sl=de&tl=en&text=%0A&op=translate")
