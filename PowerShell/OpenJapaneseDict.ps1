@@ -17,5 +17,6 @@
 
 # --
 [System.Diagnostics.Process]::Start("chrome", "https://jisho.org/")
-[System.Diagnostics.Process]::Start("chrome", "https://jdict.net/")
+# [System.Diagnostics.Process]::Start("chrome", "https://jdict.net/")
+[System.Diagnostics.Process]::Start("chrome", "https://mazii.net/search?hl=vi-VN")
 [System.Diagnostics.Process]::Start("chrome", "https://translate.google.com/?hl=vi&sl=ja&tl=en&text=%0A&op=translate")
